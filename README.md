@@ -15,6 +15,7 @@ Learning the difference between arrays and ArrayLists has helped me to better un
 
 
 References
+
 Oracle. (n.d.-a). Arrays. The Java Tutorials. https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
 Oracle. (2026). ArrayList (Java SE 26 & JDK 26). https://docs.oracle.com/en/java/javase/26/docs/api/java.base/java/util/Arr
 
